@@ -4,6 +4,7 @@ body {
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
+
 /** HEADER **/
 #header-nav {
   background-color: #f6b319;
@@ -12,7 +13,7 @@ body {
 }
 
 #logo-img {
-  background: url("images/restaurant-logo_large.png") no-repeat;
+  background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
